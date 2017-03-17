@@ -1,0 +1,23 @@
+{
+    "name": "y-urbanevich/laravel-create-update-trait",
+    "description": "Create/Update trait to Laravel 5.4 ",
+    "keywords": ["laravel", "trait", "create", "update"],
+    "type": "laravel-trait",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yaroslav Urbanevich",
+            "email": "y.urbanevich@gmail.com",
+            "homepage": "http://exe.kh.ua"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": "5.4.*"
+    },
+     "autoload": {
+        "psr-4": {
+           "Urbanevich\\": "src"
+        }
+    }
+}
