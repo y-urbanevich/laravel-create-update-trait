@@ -8,13 +8,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require y-urbanevich/laravel-create-update-trait:"dev-master"
+composer require urbanevych/laravel-create-update-trait:"dev-master"
 ```
 
 or add
 
 ```json
-"y-urbanevich/laravel5-create-update-trait" : "dev-master"
+"urbanevych/laravel5-create-update-trait" : "dev-master"
 ```
 
 to the require section of your application's `composer.json` file.
@@ -43,4 +43,4 @@ class Posts extends Model
 ```
 
 
-> [Yaroslav Urbanevich](http://exe.kh.ua) 
+> [Yaroslav Urbanevych](http://exe.kh.ua) 
