@@ -1,6 +1,6 @@
 <?php
 
-namespace Urbanevich;
+namespace Urbanevych;
 
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Schema;
